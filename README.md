@@ -61,3 +61,4 @@ endmodule
 <img width="1024" height="532" alt="{B7DED4E8-6C7D-4DEA-AF68-944E7945626A}" src="https://github.com/user-attachments/assets/e3945a91-48d0-4f08-b5fd-9e83b03f06aa" />
 
 **RESULTS**
+Thus the Serial-In Serial-Out shift register is implemented and verified.
